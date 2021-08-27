@@ -1,4 +1,4 @@
-This is a [Rollup.js](https://rollupjs.org/guide/en/) project.
+This is a [Rollup.js](https://rollupjs.org/guide/en/) project, a boilerplate to start an NPM package and bundle it with Rollup on VS Code.
 
 ## Getting Started
 
